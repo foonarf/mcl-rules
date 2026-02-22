@@ -1,4 +1,4 @@
-
+# Milestone Campaign League Core Rules (v1.1)
 
 ## Acknowledgments
 
@@ -51,7 +51,7 @@ The  Milestone  Campaign  League  system  is  played  on  a  map  of Westeros  l
 
 The Campaign is played over six Months with one mandatory play session  for  all  Faction  Leaders,  containing  the  Council  Phase  then Challenge Phase, occurring once per Month. The rest of the Month is an ongoing (approximately 30-days-long) Battle Phase wherein the players resolve their battles at any time on their own accord as they were set during the Challenge Phase.
 
-## Materials
+### Materials
 
 - 1 d20 die (for Events)
 - 1 d8 die (for Veterancy)
@@ -73,7 +73,7 @@ At the next Council Phase, the effects of these battles are manifested on  the  
 
 When  organizing  your  own  chapter  of  the  Milestone  Campaign League, after you have gathered a roster of Faction Leaders and other players it is critical that you begin to schedule the Council/Challenge Phase sessions far in advance  and  that your Faction Leaders understand that their presence is required at those events (or that it is their responsibility to send a proxy).
 
-## Council/Challenge Phase Setup
+### Council/Challenge Phase Setup
 
 - Place  sheet  protectors  on  Map  Details  Sheets  (Castle Reference slid into the back of the sheet) and place them on the appropriate sides of your map for your players to view.
 - Place the following sheets back-to-back inside sheet protectors  and  distribute  them  to  your  players  with  finepoint dry erase markers:
@@ -85,13 +85,13 @@ When  organizing  your  own  chapter  of  the  Milestone  Campaign League, after
 - Remind  Faction  Leaders  (or  their  proxies)  to  bring  the  all Commander miniatures for their Factions to place on the Campaign Map during Challenge Phase.
 - Remind Faction Leaders to bring d6s of their faction if they wish to use them to mark owned Regions on the Campaign Map (optional).
 
-## Settling Disputes
+### Settling Disputes
 
 Referees should be selected by your group from among participants who have read the Core Rules and all associated materials. Disputes are settled by the Primary Referee (typically the Campaign Organizer) or, when involving their Faction, by one or a consensus of Secondary Referees. Referees  should  consider  transfers  of  Might  or  Coin  for restitution  penalties  if  players  are  found  to  have  been  exploiting mechanics  unreasonably  against  their  opponents  or  if  egregious mistakes  cause  conditions  deleterious  to  the  fun  of  the  group. Resolutions made during the testing process of the development of this system are logged in the FAQ.
 
-## Primary Referee
+### Primary Referee
 
-## Secondary Referees
+### Secondary Referees
 
 Players should all understand that  CMON  updated  rules  (or 'Seasons') are static until the end of the Campaign and participants should not update their cards or rules mid-campaign unless there is direction  to  do  so  from  the  Campaign  Organizer. Likewise  new units/boxes released by CMON mid-campaign should be evaluated for play by the Campaign Organizer and Referees prior to authorized use.
 
@@ -99,7 +99,7 @@ Players should all understand that  CMON  updated  rules  (or 'Seasons') are sta
 
 Last released unit for play in this MCL Chapter
 
-## Referee Duty & Documentation
+### Referee Duty & Documentation
 
 A large amount of information must be logged during Council Phase, Challenge  Phase, and  each  battle in order for  the  Milestone Campaign League to function.  App support is a long-term goal for this  project  to  cut  down  on  the  demand  in  this  regard.    In  the meantime,  it  is  highly  recommended  that  you  frequently  take pictures  or  video  of  your  games  as  you  proceed  so  that  you  can consult  those  records  if  something  is  missed  in  documentation. Assign dedicated Scribes.
 
@@ -111,15 +111,15 @@ Referees should take proper 'canonical considerations' when making rulings.  Whi
 
 Note  that  even  though  MCL  may  be  played  as  a  team  game, spectators  shall  not  provide  coaching  or  advice  in  battles  unless requested to act in that capacity by all involved players.
 
-## Might Makes Right
+### Might Makes Right
 
 Due to the complexity of this system, there are numerous disputes which are likely to arise between factions.   A good rule for Referees to use when settling matters that are not detailed in these instructions is: "Might Makes Right" - the involved player who holds the highest Might Rank determines the outcome.
 
-## Example 1:
+#### Example 1:
 
 During Challenge Phase the Lannisters Challenge a Region held by the Starks and the Starks Counter Challenge with a Commander of their own. The Boltons offer a Commander to aid the Lannisters and the Lannisters accept their aid. Both the Baratheons and Targaryens insist on aiding the Starks and a dispute arises. Since the Targaryens are a higher Might Rank (1) than the Baratheons (2), the Targaryens should supersede  and  overrule  the  Baratheons,  excluding  them  from  the battle. In a scenario where the Starks have a higher Might Rank than both prospective allies, the Starks should be allowed to choose who aids them.
 
-## Example 2:
+#### Example 2:
 
 During Battle Phase the Greyjoys are preparing to play two Challenge Battles: against the Starks at the White Knife and against the Boltons in the  Bite. They  intend  to  encircle  and  Vanquish  the  Stark Commander at the White Knife but first must first defeat the Bolton Commander  in  the  Bite.    Otherwise,  he  will  provide  a  Protected Withdraw for the Starks if left in place. Comparing the Might Ranks of all factions participating in both battles, the highest Might Rank faction participating in either battle should determine the order in which the battles occur. (Referees should insist that no player uses such  an  advantage  to  exploit  their  opponents'  real  life  scheduling restrictions.)
 
@@ -188,7 +188,9 @@ Withdraw - After the resolution of a battle, Commanders who were Defeated  but  
 
 - Protected Withdraw - An exception to the normal Withdraw rule when a Commander Withdraws into a Region which contains both a Commander from a faction which objects to that movement and a Commander from a faction (including the Withdrawing Commander's own faction) who consents to the movement. In this movement the withdrawing Commander moves through the contested Region to a subsequent adjacent Region in which there are no hostile Commanders. At the start of the following Month, this Withdrawing.
 
-## Character Location - General
+## Character Location
+
+### Character Location - General
 
 Named  Characters  and  units  are  unique  and,  although  they  may appear in different versions (e.g., Robb Stark - "The Wolf Lord" and Robb Stark -"The Young Wolf") they represent single persons. Characters who have the same name and title but appear in different Factions (such as Daario Naharis) count as different versions of the same Character.  Once a Character is placed on the board as a Commander version, or takes part in any battle as another version, those  versions  of  that  Character  may  not  be  used  again  for  the remainder of the Month.  Any other versions of that Character may only be used in:
 
@@ -206,15 +208,15 @@ Characters participating in (20) Lavish Tourney or Trial by Combat are also  bou
 
 Note that when a character has multiple Commander versions on the board  at  the  same  time,  their  Faction  may  be  limited  in  which directions  one  version  may  be  able  to  Withdraw  after  a  Defeat because they still need to be able to reach the location of the second battle  for  which  they  are  scheduled  later  that  Month. Individual versions may not Withdraw in any manner that would cause them to violate the location rules as explained  above. This  means  a Commander may sometimes be Vanquished even if it appears they are not totally surrounded.
 
-## Example 1:
+#### Example 1:
 
 Tyrion  Lannister  -  "Halfman"  may  be  placed  on  the  board  as  a Commander Challenging a battle for control of Ashemark (Region) in the  Westerlands  (Realm). If  he  is  not  Injured,  Killed,  or  Captured during that battle, Tyrion Lannister - "The Giant of Lannister" may be played as an Attachment in an army Commanded by Jaime Lannister in another Challenge battle in Crakehall (Region) in the Westerlands (Realm) later that Month. If he is still available after both, he could appear as Tyrion Lannister - "The Imp", an NCU supporting an army under  the  command  of  Tywin  Lannister  in  a  Skirmish  battle  in Northmarch (Region) which is adjacent to the Westerlands (Realm).
 
-## Example 2:
+#### Example 2:
 
 Stannis Baratheon - "The Rightful Heir" may be placed on the board as a Commander countering a Challenge to Cape Wrath (Region) in the Stormlands (Realm). During the same Challenge Phase, Stannis Baratheon - "The One True King" may also be placed on the board to Challenge the Dornish Marches (Region) in the Stormlands (Realm) and Stannis Baratheon - "King at the Wall" in a Skirmish in Broken Arm (Region) in Dorne(Realm) because both of those locations are legally accessible from the first location he was played if he has access to the friendly Dock at Cape Wrath. However, if Stannis were to be Injured, Killed,  or  Captured during the battle at  Cape Wrath, he would no longer be able to deploy in either remaining battle and the Baratheon player would have to replace him with 1 Commander from Reserve or forfeit each battle as a Total Defeat.
 
-## Character Location - Commanders
+### Character Location - Commanders
 
 Before  starting  Council  and  Challenge  Phases,  it  is  important  that each  player  understands  how  to  place  their  Commanders  on  the Campaign  Map  and  how  to  move  them  using  Challenges  or Skirmishes.
 
@@ -228,11 +230,11 @@ If a Commander traverses any Region held by another faction or any Region  occup
 
 After a Faction has put forth both of its Challenges for the Month (by initiating, countering, Intercepting, or declaring Protection Challenge) that Faction may continue to participate throughout the turn  cycle  by  placing  any  number  of  the  rest  of  their  available Commanders on the board in Skirmishes.  See Challenge Phase for a step-by-step explanation of this process.
 
-## Example 1:
+#### Example 1:
 
 At the start of Month 2, Greatjon Umber is on the map in The White Knife where he won a Skirmish battle and was not Injured in Month 1. He may be sent to Challenge the Crossing because it is a Region adjacent to the Realm (the North) where he began this Month. If the Boltons hold the Neck, they may Intercept Challenge him, causing him to stop and fight them in the field there, without reaching the Crossing. If the Starks have access to the White Harbor Development with Dock (3), Greatjon might have instead Challenged The Fingers because Dock (1) allows The Bite to be traversable. If  the Greyjoys had an Iron Fleet in the The Bite, they would be able to Intercept Challenge him at sea.  (Only one of these may occur.)
 
-Example 2:
+#### Example 2:
 
 The Great Walrus began Month 3 in Reserve. He may Challenge the Region of Bear Island by starting in the Free Folk controlled Region of Frozen  Shore  with  access  to  the  Dock  (1)  in  the  Lorn  Point Development to move across the Bay of Ice.
 
@@ -252,7 +254,9 @@ Note: If smaller map dimensions cause players to not be able to fit all their Co
 
 - Commander Perks - Army list size bonuses applicable to certain Characters when they are being deployed as a Commander in this Region.  These apply even if the Commander's Faction is not in control of the Region.
 
-## Month 1 Special Rules
+## Month 1
+
+### Month 1 - Special Rules
 
 King Robert Baratheon is dead!  The lands of Westeros are about to break into an all-out war for the Iron Throne.
 
@@ -262,7 +266,7 @@ At the outset of the coming war, the following special rules are set for Month 1
 - Targaryen Commanders may be placed on any Sea Region at the start of a Challenge or Skirmish this Month.  Then move them  to  one  adjacent  Region  and  declare  a  Challenge  or Skirmish there.
 - Challenges  or  Skirmishes  may  not  be  made  in  Capitals (including Dragonstone and King's Landing), Frostfangs, the Dreadfort,  or  Blackwater  Rush  this  Month.    Defeated Commanders may not Withdraw into those Regions unless the Withdrawing Commander's Faction controls that Region this Month.
 
-## Month 1 Starting Might & Coin
+### Month 1 - Starting Might & Coin
 
 | Faction       | Might Rank   |   Capitals |   Regions |   Perks | Special Effects        |   Effect Source |   Battles | Total Might   | Coin   |
 |---------------|--------------|------------|-----------|---------|------------------------|-----------------|-----------|---------------|--------|
@@ -283,7 +287,9 @@ Note:  All Might and Coin values and the sources from which they are gained or l
 
 The  Council  Phase  begins  when  all  Faction  Leaders  or  their designated  representatives  are  present  and  ready  to  begin.    All Factions  must  declare  any  'end  of  Month'  effects  which  were triggered  at  the  end  of  the  previous  Month.    All  Factions  then declare  any  'start  of  Month'  effects  triggered  for  the  current Month.
 
-## All Factions then tally all Might gained or lost from:
+### Tally Might
+
+All Factions then tally all Might gained or lost from:
 
 - Capitals they control (+1 Might each)
 - Regions they control (+1 Might each)
@@ -292,20 +298,26 @@ The  Council  Phase  begins  when  all  Faction  Leaders  or  their designated  
 - Strategy Sheets and any other special effects
 - Captured Characters held (p28)
 
-## All Factions then tally all Coin gained or lost from:
+### Tally Coin
+
+All Factions then tally all Coin gained or lost from:
 
 - Region and Development Perks
 - Sacks
 - Strategy Sheets and any other special effects
 
-## All  Factions  then  determine  the  Might  Ranking  for  the  entire Month:
+### Might Rank
+
+All  Factions  then  determine  the  Might  Ranking  for  the  entire Month:
 
 - By total cumulative Might
 - Tie broken by Coin (Lannisters must reveal their current total Coin or lose any ties)
 - Further ties broken by total number of Victories
 - Further ties broken by d6 rolls
 
-After  the  Might  Ranking  has  been  established.    Factions  may perform the following actions in any order, declaring all relevant actions to the whole table as they are performed.   Referees should control the pace to ensure that all players have opportunities to speak, be heard, and react to circumstances as they occur:
+### Declarations
+
+After  the  Might  Ranking  has  been  established, Factions  may perform the following actions in any order, declaring all relevant actions to the whole table as they are performed.   Referees should control the pace to ensure that all players have opportunities to speak, be heard, and react to circumstances as they occur:
 
 - All Factions may declare and pay (-1 Coin) to unlock any number of Developments in Regions they control where there is no hostile Commander present.
 - The  Iron  Throne  Faction  must  negotiate  the  Small Council seats.  Default Characters occupying those seats at the start of Month 1 are:
@@ -329,7 +341,7 @@ After  the  Might  Ranking  has  been  established.    Factions  may perform the
 - House Targaryen must declare their War Focus for the current  Month  and  any  Regions  they  gained  through Revealed Loyalists.
 - All Factions must declare if they wish to recall any Commanders, moving them from the Campaign Map into Reserve and preventing them from being deployed as Commanders until the following Month.  (Those Characters may still participate in battles or other actions as long as they are not doing so as their Commander version and are still subject to normal location restrictions.)
 
-## Diplomacy & Trade
+### Diplomacy & Trade
 
 Factions are expected to participate in diplomatic talks through all phases  of  the  Campaign  in  attempts  to  improve  conditions  to their  own  ends.    The  following  exchanges  may  occur  on  the authority of Faction Leaders and must be officially declared and documented for all participants to see.
 
@@ -341,7 +353,7 @@ Region exchanges may occur only during Council Phase after the Might Ranking is 
 
 These exchanges may accompany verbal agreements of any kind, such  as  promises  not  to  invade  certain  territory.    But  always remember verbal agreements are not enforced by the rules - trust no one!
 
-## Optional Rule - Logistic Phase
+### Optional Rule - Logistic Phase
 
 Pioneered by MCL Quebec, Logistic Phase is an optional rule that creates a period of time between Council and Challenge Phases:
 
@@ -370,7 +382,7 @@ When performing a Challenge or Skirmish, declare a target Region or Protective C
 
 Document  all  forthcoming  battles  using  the  Challenge  Log. Continue ascending and descending turns until no Factions have the ability or desire to put  forth  further  Skirmishes  (both Challenges must put forth, even if one was wasted on a Protective Challenge  that  was  never  triggered  by  an  opponent).    Factions must put forth both Challenges before putting forth any Skirmishes  on  their  own  turn.  However,  Factions  may  spend Skirmishes at any time in response to another player putting forth a Challenge or Skirmish.
 
-## Optional Rule - Timed Challenge
+### Optional Rule - Timed Challenge
 
 Campaign Organizers may choose to implement the optional rule of a Timed Challenge Phase.  Under this system each Faction has a set amount of time (recommended 3 minutes) to fully declare their Challenge or Skirmish.  Referees should pause the timer if (20) Grand Tourney is rolled or if there is a complicated rules question. If the time expires, the Challenge is expended.  If the Faction was putting forth a Skirmish, that Skirmish is expended and the Faction may only put forth Skirmishes in response to other Factions for the duration of the Phase.
 
@@ -392,121 +404,121 @@ A Vanquish occurs when a Commander who does not have an eligible Region for With
 
 Each Event may only be gained once per Month unless they were acquired by a special effect. The lowest Might Rank Faction may select any Event which has not yet been rolled this Month when it is their turn to put forth a Challenge.  For all other Factions, Roll a d20 to determine the Event, re-rolling if that number has already been  taken. (Players  may  also  switch  to  a  smaller  die  if  fewer options remain.)  Assign one Referee to logging which Events have been  rolled  and  stop  rolling  for  Events  when  all  20  have  been triggered.  Some Character Traits may allow a Faction to select an alternate Event after they have rolled.  In such cases, that Event may be used even if it was already rolled prior.  If that Event had not yet been rolled, it may now no longer be rolled during this Month.
 
-## (20) Lavish Tourney
+### (20) Lavish Tourney
 
 Your nobles insist that a tournament must be hosted locally to improve commerce. Jousting and grand melees never fail to draw a crowd in Westeros. Even wartime rivals sometimes sneak into the lists to compete against each other for glory.
 
 Announce  a  tournament  in  one  of  your  Regions  or  a  Region owned by a consenting Faction. All Factions may contribute one Commander or one Character Attachment who is eligible to be in that Region during this Month. Declare the Character and version being used.  Involved players each roll a d6. Commanders add +2 to their roll and 2-point Attachments add +1 to their roll. Characters who roll a 3 or less (after modifier) are Injured and out of the tourney. Players with remaining Characters continue to roll off against each other until one player has a higher roll than all remaining competitors. That competitor earns +2 Might and +1 Coin. Players  whose  Characters  were  not  Injured  earn  +1 Might. Characters who were not Injured may still be used in other actions and battles (including their versions used in this tourney) but  are  still  subject  to  normal  location  restrictions  from  the tourney Region. The Faction owning the Region that hosted the tourney gains +2 Coin.
 
-## (19) A Flesh Wound
+### (19) A Flesh Wound
 
 A Hero has miraculously shrugged off what should have been a fatal blow.
 
 One of your Injured characters is no longer injured or one of your named Characters may re-roll their Death Save for this battle.
 
-## (18) Raiding Party
+### (18) Raiding Party
 
 One of your captains has volunteered to lead a sortie of assailants behind enemy lines prior to battle to plunder supplies.
 
 If your Commander moves to an enemy Controlled Region, you may  immediately  steal  1  Coin  from  the  Controlling  Player's stockpile.
 
-## (17) Construction Boon
+### (17) Construction Boon
 
 While your soldiery fights on the front lines, your citizenry feels safe to prosper at home.
 
 One of your controlled Regions gains a free Development. If none are eligible, gain +1 Coin.
 
-## (16) Keen Scouting
+### (16) Keen Scouting
 
 Your swiftest scouts have reported back with exact locations of enemy troops who were woefully unaware.
 
 Opponents in this battle must deploy all of their army before you deploy any units and you automatically choose First Player, even if you also win the roll for choosing table side.
 
-## (15) Sequester Foe
+### (15) Sequester Foe
 
 A  key  antagonist  has  been  identified  by  your  spies. They manufacture political emergencies to make sure that troublemaker will not arrive for the next battle.
 
 After the opponents' Commanders are declared you may name any other Character available to be fielded by those enemies, they may not field that Character in any form during the battle.  (When a  Character  T rait  that  would  force  a  Faction  to  include  that character  in  an  army,  that  Character  is  not  immune  from  the effects of this Event and could still be forced to be absent from the battle, even though the campaign effect of their T rait remains.)
 
-## (14) Land Grab
+### (14) Land Grab
 
 Having marched in force and eager for battle, your troops are still surprisingly fresh and eager to move again should you decide to press on.
 
 If  a  Commander takes control of a Region without a battle this turn and has their Challenge refunded, that Commander may be used to make another Challenge in the same Realm this Month.
 
-## (13) Auxiliary Masons
+### (13) Auxiliary Masons
 
 Among  your  army's  camp  followers  are  a  crew  of  traveling stonemasons eager to work their trade for your cause.
 
 If a friendly Commander Conquers or Routs after this battle, he may  immediately  Develop  this  Region  or  an  adjacent  Region owned by a friendly faction for free.
 
-## (12) Elite Mercenary Contacts
+### (12) Elite Mercenary Contacts
 
 Your  steward  reports  a  renowned  mercenary  company  has expressed  mutual  interest  in  your  war  effort  and  offered  a discount for their services.
 
 Reduce the cost of mercenaries for yourself and your ally by 2 Coin (each) for this battle.
 
-## (11) Agitated Rebellion
+### (11) Agitated Rebellion
 
 Word of your exploits in the coming battle will spread quickly and could inspire nearby commonfolk to rise up against their current lord.
 
 If you win a battle or take Control of a Region you may select 1 adjacent enemy Region, that Region generates no Might or Coin.
 
-## (10) Plentiful Leadership
+### (10) Plentiful Leadership
 
 Two of your Commanders have devised a unique strategy they wish to employ in the coming battle.
 
 You  may  Challenge  using  2  Commanders  in  the  same  region, deploying them in the same army, and using 1 of each of their Tactics cards to complete your deck of 20.
 
-## (9) Clever Ruse
+### (9) Clever Ruse
 
 Your  Commanders  have  hatched  a  plan  to  displace  a  sizable enemy  force.  This  diversion  could  cause  your  enemies  to  be spread thin.
 
 After  an  enemy  counters  your  Challenge  you  may  return  your Commander to Reserve. The enemy Commander remains in that Region. The  enemy  is  refunded  their  spent  Challenge  if  they counter Challenged when this effect occurs.
 
-## (8) Lying in Wait
+### (8) Lying in Wait
 
 Your vanguard has spotted terrain that could be used to surprise the enemy with a flanking maneuver during the battle.
 
 One unit fielded by you or your ally in this battle Outflank for free.
 
-## (7) Downed Ravens
+### (7) Downed Ravens
 
 The finest marksmen in your company have downed a number of ravens carry messages between enemy positions.
 
 The  first  three  Tactics  cards  drawn  by  your  opponent  must  be revealed to you at the start of Round 1 during this battle. In a team battle, you choose which opponent.
 
-## (6) All or Nothing
+### (6) All or Nothing
 
 The  soldiers  of  this  army  have  an  undying  devotion  to  their Commander  and  many  will  sacrifice  themselves  for  the  cause rather than retreat from a losing battle.
 
 You gain +1 Might from Victory on this Challenge but gain no Might from Draw or Close Defeat.
 
-## (5) Lure the Garrison
+### (5) Lure the Garrison
 
 The  enemy's  garrisoned  troops  in  this  Region  are  restless  and arrogant. They could easily be coaxed to sally out and meet you in the field.
 
 You  may  choose  to  prevent  your  enemy  from  using  a  Castle, forcing a Field Battle rather than Break the Siege in this Region.
 
-## (4) Local Sellswords
+### (4) Local Sellswords
 
 A  local  inn  is  hosting  a  passing  band  of  hired  blades  who  are desperate for a contract.
 
 Reduce  the  cost  of  the  first  Mercenary  unit  or  attachment included by all Commanders (ally and enemy) by 1 Coin for this battle.
 
-## (3) Destructive Stormfront
+### (3) Destructive Stormfront
 
 A destructive storm has ravaged an area under your governance. The  population  will  need  time  to  recover  before contributing to your cause again.
 
 The lowest Might Rank faction who shares a border with you or an adjoining  Sea  Region  selects  one  of  your  Regions. Region  and Development Perks for Might, Coin, and Docks are disabled there until the Challenge Phase of the following Month.
 
-## (2) Drunken Revelry
+### (2) Drunken Revelry
 
 In  a  vain  attempt  to  overcome fears of the coming battle, your troops indulge too much the night before. They will be less alert in the heat of battle.
 
 Suffer -1 Capture Saves to your Faction's Characters in this battle.
 
-## (1) Treacherous Conditions
+### (1) Treacherous Conditions
 
 A brutal environment, this battlefield will prove especially perilous to the heroes who risk their lives upon it.
 
@@ -542,37 +554,36 @@ For the purposes of this system there is no maximum amount of Victory Points tha
 
 Time constraints should be acknowledged prior to the start of any battle  since  a  player  opting  to  quit  a  battle  early  without  the opponent agreeing to continue it later will incur a Total Defeat.
 
-## Optional Rule - Timed Battles
+### Optional Rule - Timed Battles
 
 Community developer Cruellion has an excellent set of rules for timed play that are highly recommended for use when both players agree.  These rules ensure that the game ends within a pre-determined allotment of time.  If one player expends all of their allotted time, the remaining player is allowed to Activate all  of  their  remaining  units  and  perform  Actions  while  the opponent is only allowed to roll Defense Dice.
 
-## Field Battles:
+
+## Battle Types
+
+### Field Battles:
 
 Field Battles are used to resolve Challenges and Skirmishes that occur in a land Region where no Castles are controlled by one of the participants or when the participants decline to use Castles in Break the Siege. To set up a Field Battle, start with the Game of Thrones game mode explained in the CMON Rulebook (page 27 in the Season 6 edition).  Use three Objectives instead of five and orient them deep or wide for Mountain Pass or Coastal Assault maps respectively.
 
 Opponents roll a d6.  The player who rolls highest may choose their Deployment Zone and who deploys first, or they man pass this choice to their opponent.  The player who does not choose their Deployment may choose who is the First Player after Tactics cards are drawn.
 
-## Example: Battle of Oxcross
+#### Example: Battle of Oxcross
 
 The first terrain placed must be a Low Wall Type: Open Field
 
-## Battle Types
-
-## Example: Battle of Skirling Pass
+#### Example: Battle of Skirling Pass
 
 Bogs must not be placed
 
 Type: Mountain Pass
 
-## Example: Battle of Cape Kraken
+#### Example: Battle of Cape Kraken
 
 The first terrain placed must be a Bog
 
-Type: Coastal Assault (Deployment Zones are 12' leaving a 12'
+Type: Coastal Assault (Deployment Zones are 12" leaving a 12" neutral zone)
 
-neutral zone)
-
-## Break the Siege:
+### Break the Siege:
 
 Break the Siege is a game mode developed by Board Man Gaming. These battles are used to resolve Challenges and Skirmishes that occur in a land Region where a Castle is available and its owner wishes to utilize its fortifications for this battle.  Refer to Board Man Gaming - Break the Siege Game Mode v1.3 for all rules and special  Castle  Wall  segments  to  be  used  in  their  appropriate Regions and  circumstances.    Break  the  Siege  also  contains  four custom war machine units that may be used by their respective factions  only  in  Break  the  Siege  battles.    Utilize  standard  war machine miniatures (such as Builder Stone Thrower) as proxies.
 
@@ -582,19 +593,19 @@ Castle Walls are set down prior to terrain placement players may not choose thei
 
 No  Objective  Cards  and  placed  but  Siege  Attacker  and  Siege Defender Decks must be present.  If players are playing digitally, they  should  roll  a  d10  to  determine  which  card  is  drawn  from those decks if they do not have physical copies.  Digital or physical copies  of  the  Castle  Wall  cards  and  any  present  custom  War Machine cards should be made available to all participants.
 
-## Example: Siege of Seagard
+#### Example: Siege of Seagard
 
 The first terrain piece must be a Low Wall.
 
 Type: Coastal Assault (Deployment Zones are 12' leaving a 12' neutral zone)
 
-## Example: Siege of the Castle Black
+#### Example: Siege of the Castle Black
 
 (No terrain restrictions)
 
 Type: Field Battle
 
-## Example: Siege of the Eyrie (Mountain Fortress)
+#### Example: Siege of the Eyrie (Mountain Fortress)
 
 Bog must not be placed
 
@@ -602,7 +613,7 @@ Type: Mountain Pass (Eyrie 2'W x 4'D)
 
 Note: The Eyrie is the only map that is 2' wide.  All other Mountain Pass style maps are 3' wide with 4' between the Castle Walls.
 
-## Sea Battles:
+### Sea Battles:
 
 Sea  Battles  are  used  to  resolve  Challenges  and  Skirmishes  that occur in a Sea Region.  List size bonuses may not be applied to Cavalry  Units,  Cavalry  Attachments,  or  Cavalry  Solos  in  Sea Battles.  To set up a Sea Battle start with this layout from the Board Man Gaming scenario 'Assault  on  the  Targaryen  Fleet'  using  a standard 4' x 4' battle area.  Gaps between boarding ramps are 5.5'.
 
@@ -612,9 +623,9 @@ TORRENT: Units performing Actions while in this T errain piece suffer D6+1 Wound
 
 No other terrain may be added unless placed by a unit or Tactics card during the battle.   Controlling Objectives generates Victory Points as normal in the Game of Thrones game mode but they do not grant any Objective cards to buff the units controlling them in this  game  mode.    Opponents  roll  a  d6.    The  player  who  rolls highest  may  choose  who  is  First  Player,  or  they  man  pass  this choice to their opponent.  The player who does not choose First Player will choose who deploys first.
 
-Example: Homemade Sea Battles Overlay
+#### Example: Homemade Sea Battles Overlay
 
-Example:  Online  play  using  terrain  to  mark  ship  hulls  and ramps
+#### Example:  Online  play  using  terrain  to  mark  ship  hulls  and ramps
 
 ## Assembling an Army
 
