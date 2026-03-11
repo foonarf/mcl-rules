@@ -1,207 +1,124 @@
 # House Greyjoy - Strategy Sheet
 
-- Sea Song
-- Rodrik Harlaw +1
-- +1 Might after each uncontested Challenge by this Iron Fleet
+## Faction Overview
+House Greyjoy Commanders who are placed on Sea Regions are considered Iron Fleets, rather than typical fleets used by the other Factions. Iron Fleets are comprised of a Fleet Captain, Flagship, Support ships, and potentially a Vendetta. Fleet Captains may perform Challenges or Skirmishes in any Region adjacent to their Sea Region. Leave the Commander placed on the Sea Region when moving on the map and declare the adjacent land Region as the battle location. When Iron Fleets participate in Sea Battles, opponents do not gain Commander or Might Rank list bonuses unless one of their opponents' Commanders is the Master of Ships. House Greyjoy Combat Units take -2 Wounds from the Torrent keyword (D6-1 instead of D6+1). A Flagship is destroyed if its Fleet Captain is Killed as the result of a Sea Battle and may only be transferred to another Fleet (costing -2 Might) if its Captain is Killed during a land battle. Ironborn Reavers are in Reserve. Place that Commander on their Sea Region and label them as the new Fleet Captain. That replacement may not Challenge or Skirmish this Month. When Fleet Captains are Injured, leave them on the map in their Iron Fleet. If their Sea Region is Challenged while they are Injured, or if the Fleet Captain is a fresh replacement, they must retreat to an adjacent Sea Region or be Vanquished. Gain +2 Might each Month for each Iron Fleet in play, including any that were unlocked at the start of Month 1. +1 Might per Support in this Iron Fleet.
 
-- Great Kraken
-- Ironmakers +1
-- Balon Greyjoy +2
-- Ironborn Reavers +2
+## Flagships
+**Great Kraken**
+- Commander: Balon Greyjoy +2
+- Associated Units: Ironmakers +1, Ironborn Reavers +1
 
-## FLAGSHIPS
+**Silence**
+- Commander: Euron Greyjoy +2
+- Associated Units: Silenced Men +1, Ironborn Reavers +1
 
-- Slaver's Scream
-- -1 to enemy Capture Saves
-- +1 Coin for each Captured Character held at the end of the Month
+**Iron Victory**
+- Commander: Victarion Greyjoy +2
+- Associated Units: Iron Victory Crew +1
+- Special: May Challenge through impassable terrain
 
-- Silence
-- Silenced Men +1
-- Euron Greyjoy +2
-- +1 Might per Support in this Iron Fleet
+**Black Wind**
+- Commander: Asha Greyjoy +2
+- Associated Units: Stony Shore Pillagers +1
+- Special: +1 Coin from Sacking
 
-- Noble Lady
-- Fleet Captain +1
-- +2 Coin if this Iron Fleet does not participate in a battle this Month
+**Sea Song**
+- Commander: Rodrik Harlaw +1
+- Special: +1 Might after each uncontested challenge by this Iron Fleet
 
-- Nightflyer
-- +1 Coin from defender victories
-- Baelor Blacktyde +2
-- Blacktyde Chosen +1
+**Nightflyer**
+- Commander: Baelor Blacktyde +1
+- Associated Units: Blacktyde Chosen +1
+- Special: +1 Coin from defender victory, +1 Coin from Conquering
 
-- Foamdrinker
-- +1 Coin from attacker victories
-- Dagmer Cleftjaw +2
+**Foamdrinker**
+- Commander: Dagmer Cleftjaw +1
+- Special: +1 Coin from attacker victory
 
-## IRON
+**Noble Lady**
+- Commander: Theon Greyjoy +1
+- Special: +2 Coin if this Iron Fleet does not participate in a battle this Month
 
-- "Redwyne Marauder" - victory from the Redwyne Straits
-- +2 Coin
-- +3 Coin per victory "Northern Terror" - victory from the Bay of Ice or Shivering Sea
-- Stoney Shore Pillagers +2
-- Fleet Captain +3 in the North "Bane of Lannisport" - Sack Lannisport
-- Sacking costs no Might
-- Sacking rewards +1 Coin
+**Slaver's Scream**
+- Special: -1 to enemy Capture Saves, +1 Coin for each Captured Character held at the end of the Month
 
-- "Coastal Scourge" - 2 land Region Victories
-- +2 Might per land victory "Bloody Pirate" - Victory from the Stepstones
-- Lysene Sellswords +1
-- Lysene Bosun +1
-- Lysene Sellswords and Lysene Bosun cost no Coin "Royal Fleet Rival" - Victory from Blackwater Bay or victory over the Master of Ships. Greyjoys must never hold Master of Ships
-- +3 Might per Challenge battle
-- +5 Might per sea victory
+## Support of the Iron Islands
+All Support grants: **+1 Might**
+Cost for each Iron Island: 
+- 1st Support: -1 Coin (First Support for each Month 1 Iron Fleet is FREE)
+- 2nd Support: -2 Coin
+- 3rd Support: -3 Coin
 
-## (FREE)
-
-## FLEET
-
-Support 3
-
-Support 2
-
-Each Iron Fleet may only gain one Vendetta which is tied to the Iron Captain who earns it. Each Vendetta may only be taken once. Bonuses from Vendettas are paused if the attached Fleet Captain leaves the Iron Fleet and permanently lost if that Commander dies. At the end of Month 6, gain +6 Might for each Vendetta attached to an Iron Fleet.
-
-Support 1
-
-Vendetta
-
-Fleet Captain
-
-Flagship
-
-- Black Wind
-- Asha Greyjoy +2
-- Stony Shore Pillagers +1
-- +1 Coin from Sacking
-
-- +1 Coin per battle
-- +1 Coin per victory
-
-Unlock - Starting Location
-
-Lonely Light
-
-- +1 Might
-- Reaver Captain +1
-
-## (FREE)
-
-Each Iron Fleet must have at least one Support. Support of each Iron Island costs -1 Coin (except for the first Support for each Month 1 Iron Fleet). The second Support added to an Iron Fleet costs -2 Coin and the third Support added costs -3 Coin. Support may be transferred between Iron Fleets during Council Phase for the same cost to the recieving Iron Fleet. If a Fleet Captain is Killed their Support may be redistributed for no cost. Each Island may send Support to a maximum of two Iron Fleets.
-
-## SUPPORT OF THE IRON ISLANDS
-
-- Iron Victory
-- Victarion Greyjoy +2
-- Iron Victory Crew +1
-- May Challenge through impassible map terrain
-
-New Fleets are unlocked at the start of each Month when criteria are met. The first Support for each must be purchased immediately after selecting the Fleet Captain and Flagship.
-
-Great Wyk
-
--2 Coin
-
--2 Coin
-
-Old
-
-Harlaw
-
-Campaign Start - Ironman's Bay
-
-Campaign Start - Sunset Sea
-
-Blacktyde
-
-Wyk
-
--3 Coin
-
--3 Coin
-
-Fleet Captains earn +4 Might for fighting Sea Battles and an additional +4 Might on Victory.
-
-Saltcliffe
-
-- +1 Might per victory
-- Beron Blacktyde +1
-
-- Warsworn +1
-- House Harlaw Reapers +1
-
-If Pyke is Conquered, all Support bonuses are paused until it is retaken by the Greyjoys. If Sacked, the Attacker chooses one Iron Island, remove all of that Iron Island's Support ships from your Iron Fleets, they must be purchased again.
-
-Orkmont
-
+**Lonely Light**
 - Sunset Sea Brave +1
 - May move +(1) when Challenging
 
-- Sea Bitch
-- Theon Greyjoy +2
-- +1 Coin from Conquering
+**Great Wyk**
+- Drowned Prophet +1
+- Drowned Men +1
+- +1 Coin per battle
+- +1 Coin per victory
 
-All Support: +1 Might
+**Old Wyk**
+- +1 Might per victory
+- Beron Blacktyde +1
 
+**Saltcliffe**
 - Tristofer Botley +1
 - Erik Ironmaker +1
 - Wendamyr +1
+- +1 Might
+- Reaver Captain +1
 
-## VENDETTAS
+**Blacktyde**
+- +1 Might per victory
+- Beron Blacktyde +1
 
-Pyke
-
--1 Coin
-
--1 Coin
-
--1 Coin
-
--2 Coin
-
--2 Coin
-
--2 Coin
-
-2 Sacks - Distance (2) from Pyke
-
-1 Victory - Distance (1) from Pyke
-
-Victory over 3 factions - Distance (2) from Pyke
-
--3 Coin
-
--3 Coin
-
--3 Coin
-
-- Drowned Prophet +1
-- Drowned Men +1
-
-- Nute +1
+**Orkmont**
 - +1 Coin
 
--1 Coin
+**Pyke**
+- +1 Might
+- House Harlaw Reapers +1
+- Warsworn +1
 
--1 Coin
+*Note: If Pyke is Conquered, all Support bonuses are paused until Pyke is retaken by the Greyjoys. If Sacked, the Attacker chooses one Iron Island; remove all of that Iron Island's Support ships from your Iron Fleets, they must be purchased again.*
 
--1 Coin
+## Vendettas
+Each Iron Fleet may only gain one Vendetta tied to the Iron Captain who earns it. Bonuses are paused if the Fleet Captain leaves the Iron Fleet and lost if the Captain is Killed. At the end of Month 6, gain +6 Might for each Vendetta attached to an Iron Fleet Captain.
 
--2 Coin
+**"Coastal Scourge"**
+- Unlock: 2 land Region Victories
+- Reward: +2 Might per land victory
 
--2 Coin
+**"Bloody Pirate"**
+- Unlock: Victory from the Stepstones
+- Reward: Lysene Sellswords +1, Lysene Bosun +1, Lysene Sellswords and Lysene Bosun cost -1 Coin
 
--2 Coin
+**"Royal Fleet Rival"**
+- Unlock: Victory from Blackwater Bay or victory over the Master of Ships
+- Reward: +3 Might per Challenge battle, +5 Might per sea victory
 
-3 Conquers - Any Sea Region
+**"Syne Marauder"**
+- Unlock: Victory from the Redwyne Straits
+- Reward: +3 Coin, +3 Coin per victory
 
-Victory over 5 factions - Any Sea Region
+**"Northern Terror"**
+- Unlock: Victory from the Bay of Ice or Shivering Sea
+- Reward: Stony Shore Pillagers +2, Fleet Captain +3 in the North
 
-2 Greyjoy Intercepts - Distance (3) from Pyke
+**"Bane of Lannisport"**
+- Unlock: Sack Lannisport
+- Reward: Sacking costs no Might, Sacking rewards +1 Coin
 
--3 Coin
-
--3 Coin
-
--3 Coin
-
-House Greyjoy Commanders who are placed on Sea Regions are considered Iron Fleets, rather than typical fleets used by the other factions. Iron Fleets are comprised of a Fleet Captain, Flagship, Support ships, and potentially a Vendetta. Fleet Captains may perform Challenges or Skirmishes on land Regions adjacent to their Sea Region. Leave the Commander placed on the Sea Region when moving on the map and declare the adjacent land Region as the battle location. When Iron Fleets participate in Sea Battles, opponents do not gain Commander or Might Rank list bonuses unless one of their opponents' Commanders is the Master of Ships. House Greyjoy Combat Units take -2 Wounds from the Torrent keyword (D6-1 instead of D6+1). A Flagship is destroyed if its Fleet Captain is Killed as a result of a Sea Battle and may only be transferred to another Fleet (costing -2 Might) if its Captain is Killed during a land battle. Commanders acting as Fleet Captains may only occupy Sea Regions on the map unless they give control of their Iron Fleet to another available Commander from Reserve. Place that Commander on the map in the Sea Region and label them as the new Fleet Captain. That replacement may not Challenge or Skirmish this Month. When Fleet Captains are Injured they stay on the map in their Iron Fleet. If their Sea Region is Challenged while they are Injured, or if the Fleet Captain is a fresh replacement, they must Withdraw to one adjacent Sea Region or be Vanquished. Gain +2 Might each Month for each Iron Fleet in play, including any that were unlocked at the start of the Month.
+## Fleet Structure
+- **Fleet Captains** earn +4 Might for fighting Sea Battles and an additional +4 Might on Victory.
+- **Support Limits:** Each Iron Fleet must have at least one Support. Support may be transferred between Iron Fleets during Council Phase for the same cost to the receiving Iron Fleet. If a Fleet Captain is Killed their Support may be redistributed for free. A Fleet Captain may send Support to a maximum of two Iron Fleets.
+- **Unlock Conditions:**
+    - **Fleet 1 (Starting):** Starts at Ironman's Bay/Sunset Sea.
+    - **Fleet 2:** 1 Victory - Distance (1) from Pyke.
+    - **Fleet 3:** 2 Sacks - Distance (2) from Pyke.
+    - **Fleet 4:** Victory over 3 factions - Distance (2) from Pyke.
+    - **Fleet 5:** 2 Greyjoy Intercepts - Distance (3) from Pyke.
+    - **Fleet 6:** Conquers - Any Sea Region.
+    - **Fleet 7:** Victory over 5 factions - Any Sea Region.
